@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Time Zone Data Source" language="en" table="x_173931_zoomnow_time_zone_data_source_staging">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Time Zone Data Source</label>
+            <language>en</language>
+            <name>x_173931_zoomnow_time_zone_data_source_staging</name>
+            <plural>Time Zone Data Sources</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-06-28 10:33:35</sys_created_on>
+            <sys_id>d1b31385db8d7010eaeb84d8689619e8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Time Zone Data Source</sys_name>
+            <sys_package display_value="ZoomNow" source="x_173931_zoomnow">820157cddb4d7010eaeb84d8689619ab</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ZoomNow">820157cddb4d7010eaeb84d8689619ab</sys_scope>
+            <sys_update_name>sys_documentation_x_173931_zoomnow_time_zone_data_source_staging__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-06-28 10:33:35</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

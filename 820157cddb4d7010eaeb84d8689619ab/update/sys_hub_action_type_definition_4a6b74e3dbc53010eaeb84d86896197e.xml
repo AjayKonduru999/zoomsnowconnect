@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_hub_action_type_definition">
+    <sys_hub_action_type_definition action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <acls/>
+        <action_template/>
+        <active>true</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description/>
+        <ih_action>false</ih_action>
+        <internal_name>schedule_import</internal_name>
+        <label_cache>[]</label_cache>
+        <latest_snapshot>e9ecf82fdbc53010eaeb84d8689619c8</latest_snapshot>
+        <master_snapshot>e9ecf82fdbc53010eaeb84d8689619d3</master_snapshot>
+        <name>Schedule Import</name>
+        <natlang/>
+        <outputs/>
+        <state>published</state>
+        <sys_class_name>sys_hub_action_type_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-05 17:52:59</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4a6b74e3dbc53010eaeb84d86896197e</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Schedule Import</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="ZoomNow" source="x_173931_zoomnow">820157cddb4d7010eaeb84d8689619ab</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ZoomNow">820157cddb4d7010eaeb84d8689619ab</sys_scope>
+        <sys_update_name>sys_hub_action_type_definition_4a6b74e3dbc53010eaeb84d86896197e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-05 17:59:30</sys_updated_on>
+        <system_level>false</system_level>
+        <type/>
+    </sys_hub_action_type_definition>
+    <sys_translated_text action="delete_multiple" query="documentkey=4a6b74e3dbc53010eaeb84d86896197e"/>
+    <sys_variable_value action="delete_multiple" query="document_key=4a6b74e3dbc53010eaeb84d86896197e"/>
+    <sys_hub_step_instance action="delete_multiple" query="action=4a6b74e3dbc53010eaeb84d86896197e^sys_idNOT INeaebb4abdbc53010eaeb84d8689619c8"/>
+    <sys_hub_step_instance action="INSERT_OR_UPDATE">
+        <action display_value="Schedule Import">4a6b74e3dbc53010eaeb84d86896197e</action>
+        <cid>cc195f6d-631e-4abd-bd47-975fb91aeaec</cid>
+        <extended_inputs/>
+        <extended_outputs/>
+        <icon/>
+        <inputs/>
+        <label>Script step</label>
+        <order>1</order>
+        <outputs/>
+        <section/>
+        <step_type display_value="Script">106afb6647032200b4fad7527c9a71e7</step_type>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-05 17:55:12</sys_created_on>
+        <sys_id>eaebb4abdbc53010eaeb84d8689619c8</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_scope display_value="ZoomNow">820157cddb4d7010eaeb84d8689619ab</sys_scope>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-05 17:59:30</sys_updated_on>
+    </sys_hub_step_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=eaebb4abdbc53010eaeb84d8689619c8"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_step_instance</document>
+        <document_key>eaebb4abdbc53010eaeb84d8689619c8</document_key>
+        <order>400</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-05 17:59:30</sys_created_on>
+        <sys_id>15ecf82fdbc53010eaeb84d8689619b3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-05 17:59:30</sys_updated_on>
+        <value/>
+        <variable display_value="">f5e56d79b3101300176b051a16a8dce4</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_step_instance</document>
+        <document_key>eaebb4abdbc53010eaeb84d8689619c8</document_key>
+        <order>200</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-05 17:59:30</sys_created_on>
+        <sys_id>d5ecf82fdbc53010eaeb84d8689619b3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-05 17:59:30</sys_updated_on>
+        <value/>
+        <variable display_value="">2c226939b3101300176b051a16a8dc83</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_step_instance</document>
+        <document_key>eaebb4abdbc53010eaeb84d8689619c8</document_key>
+        <order>600</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-05 17:55:12</sys_created_on>
+        <sys_id>eaebfcabdbc53010eaeb84d868961976</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-05 17:55:12</sys_updated_on>
+        <value>(function execute(inputs, outputs) {
+// ... code ...
+  var rec = new GlideRecord('scheduled_import_set');
+rec.get('name', 'Join URL and ID Scheduled Import');
+gs.executeNow(rec);
+})(inputs, outputs);
+</value>
+        <variable display_value="">71aa7f6647032200b4fad7527c9a719b</variable>
+    </sys_variable_value>
+    <sys_hub_step_instance action="delete_multiple" query="action=4a6b74e3dbc53010eaeb84d86896197e^sys_idNOT INeaebb4abdbc53010eaeb84d8689619c8"/>
+    <sys_hub_step_instance action="INSERT_OR_UPDATE">
+        <action display_value="Schedule Import">4a6b74e3dbc53010eaeb84d86896197e</action>
+        <cid>cc195f6d-631e-4abd-bd47-975fb91aeaec</cid>
+        <extended_inputs/>
+        <extended_outputs/>
+        <icon/>
+        <inputs/>
+        <label>Script step</label>
+        <order>1</order>
+        <outputs/>
+        <section/>
+        <step_type display_value="Script">106afb6647032200b4fad7527c9a71e7</step_type>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-05 17:55:12</sys_created_on>
+        <sys_id>eaebb4abdbc53010eaeb84d8689619c8</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_scope display_value="ZoomNow">820157cddb4d7010eaeb84d8689619ab</sys_scope>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-05 17:59:30</sys_updated_on>
+    </sys_hub_step_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=eaebb4abdbc53010eaeb84d8689619c8"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_step_instance</document>
+        <document_key>eaebb4abdbc53010eaeb84d8689619c8</document_key>
+        <order>400</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-05 17:59:30</sys_created_on>
+        <sys_id>15ecf82fdbc53010eaeb84d8689619b3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-05 17:59:30</sys_updated_on>
+        <value/>
+        <variable display_value="">f5e56d79b3101300176b051a16a8dce4</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_step_instance</document>
+        <document_key>eaebb4abdbc53010eaeb84d8689619c8</document_key>
+        <order>200</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-05 17:59:30</sys_created_on>
+        <sys_id>d5ecf82fdbc53010eaeb84d8689619b3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-05 17:59:30</sys_updated_on>
+        <value/>
+        <variable display_value="">2c226939b3101300176b051a16a8dc83</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_step_instance</document>
+        <document_key>eaebb4abdbc53010eaeb84d8689619c8</document_key>
+        <order>600</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-05 17:55:12</sys_created_on>
+        <sys_id>eaebfcabdbc53010eaeb84d868961976</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-05 17:55:12</sys_updated_on>
+        <value>(function execute(inputs, outputs) {
+// ... code ...
+  var rec = new GlideRecord('scheduled_import_set');
+rec.get('name', 'Join URL and ID Scheduled Import');
+gs.executeNow(rec);
+})(inputs, outputs);
+</value>
+        <variable display_value="">71aa7f6647032200b4fad7527c9a719b</variable>
+    </sys_variable_value>
+    <sys_hub_action_plan action="delete_multiple" query="action_id=4a6b74e3dbc53010eaeb84d86896197e^sys_idNOT INe9ec3c2fdbc53010eaeb84d86896190f"/>
+    <sys_hub_action_plan action="INSERT_OR_UPDATE">
+        <action_id display_value="Schedule Import">4a6b74e3dbc53010eaeb84d86896197e</action_id>
+        <plan>{"persistor":{"@class":".ChunkingPlanPersistor","table":"sys_hub_action_plan","id":"e9ec3c2fdbc53010eaeb84d86896190f","name":"plan"}}</plan>
+        <snapshot>e9ecf82fdbc53010eaeb84d8689619c8</snapshot>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-05 17:59:31</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e9ec3c2fdbc53010eaeb84d86896190f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_overrides/>
+        <sys_scope/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-05 17:59:31</sys_updated_on>
+    </sys_hub_action_plan>
+    <sys_hub_action_type_snapshot action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <acls/>
+        <action_template/>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description/>
+        <internal_name>schedule_import</internal_name>
+        <label_cache>[]</label_cache>
+        <master>true</master>
+        <name>Schedule Import</name>
+        <natlang/>
+        <outputs/>
+        <parent_action display_value="Schedule Import">4a6b74e3dbc53010eaeb84d86896197e</parent_action>
+        <sys_class_name>sys_hub_action_type_snapshot</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-05 17:59:30</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e9ecf82fdbc53010eaeb84d8689619d3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="ZoomNow">820157cddb4d7010eaeb84d8689619ab</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-05 17:59:30</sys_updated_on>
+        <system_level>false</system_level>
+        <type/>
+    </sys_hub_action_type_snapshot>
+    <sys_translated_text action="delete_multiple" query="documentkey=e9ecf82fdbc53010eaeb84d8689619d3"/>
+    <sys_variable_value action="delete_multiple" query="document_key=e9ecf82fdbc53010eaeb84d8689619d3"/>
+    <sys_hub_step_instance action="delete_multiple" query="action=e9ecf82fdbc53010eaeb84d8689619d3^sys_idNOT IN25ecf82fdbc53010eaeb84d8689619d5"/>
+    <sys_hub_step_instance action="INSERT_OR_UPDATE">
+        <action display_value="Schedule Import">e9ecf82fdbc53010eaeb84d8689619d3</action>
+        <cid>cc195f6d-631e-4abd-bd47-975fb91aeaec</cid>
+        <extended_inputs/>
+        <extended_outputs/>
+        <icon/>
+        <inputs/>
+        <label>Script step</label>
+        <order>1</order>
+        <outputs/>
+        <section/>
+        <step_type display_value="Script">106afb6647032200b4fad7527c9a71e7</step_type>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-05 17:59:30</sys_created_on>
+        <sys_id>25ecf82fdbc53010eaeb84d8689619d5</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_scope display_value="ZoomNow">820157cddb4d7010eaeb84d8689619ab</sys_scope>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-05 17:59:30</sys_updated_on>
+    </sys_hub_step_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=25ecf82fdbc53010eaeb84d8689619d5"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_step_instance</document>
+        <document_key>25ecf82fdbc53010eaeb84d8689619d5</document_key>
+        <order>200</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-05 17:59:30</sys_created_on>
+        <sys_id>29ecf82fdbc53010eaeb84d8689619db</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-05 17:59:30</sys_updated_on>
+        <value/>
+        <variable display_value="">2c226939b3101300176b051a16a8dc83</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_step_instance</document>
+        <document_key>25ecf82fdbc53010eaeb84d8689619d5</document_key>
+        <order>400</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-05 17:59:30</sys_created_on>
+        <sys_id>65ecf82fdbc53010eaeb84d8689619db</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-05 17:59:30</sys_updated_on>
+        <value/>
+        <variable display_value="">f5e56d79b3101300176b051a16a8dce4</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_step_instance</document>
+        <document_key>25ecf82fdbc53010eaeb84d8689619d5</document_key>
+        <order>600</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-05 17:59:30</sys_created_on>
+        <sys_id>e9ecf82fdbc53010eaeb84d8689619db</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-05 17:59:30</sys_updated_on>
+        <value>(function execute(inputs, outputs) {
+// ... code ...
+  var rec = new GlideRecord('scheduled_import_set');
+rec.get('name', 'Join URL and ID Scheduled Import');
+gs.executeNow(rec);
+})(inputs, outputs);
+</value>
+        <variable display_value="">71aa7f6647032200b4fad7527c9a719b</variable>
+    </sys_variable_value>
+    <sys_hub_step_instance action="delete_multiple" query="action=e9ecf82fdbc53010eaeb84d8689619d3^sys_idNOT IN25ecf82fdbc53010eaeb84d8689619d5"/>
+    <sys_hub_step_instance action="INSERT_OR_UPDATE">
+        <action display_value="Schedule Import">e9ecf82fdbc53010eaeb84d8689619d3</action>
+        <cid>cc195f6d-631e-4abd-bd47-975fb91aeaec</cid>
+        <extended_inputs/>
+        <extended_outputs/>
+        <icon/>
+        <inputs/>
+        <label>Script step</label>
+        <order>1</order>
+        <outputs/>
+        <section/>
+        <step_type display_value="Script">106afb6647032200b4fad7527c9a71e7</step_type>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-05 17:59:30</sys_created_on>
+        <sys_id>25ecf82fdbc53010eaeb84d8689619d5</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_scope display_value="ZoomNow">820157cddb4d7010eaeb84d8689619ab</sys_scope>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-05 17:59:30</sys_updated_on>
+    </sys_hub_step_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=25ecf82fdbc53010eaeb84d8689619d5"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_step_instance</document>
+        <document_key>25ecf82fdbc53010eaeb84d8689619d5</document_key>
+        <order>200</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-05 17:59:30</sys_created_on>
+        <sys_id>29ecf82fdbc53010eaeb84d8689619db</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-05 17:59:30</sys_updated_on>
+        <value/>
+        <variable display_value="">2c226939b3101300176b051a16a8dc83</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_step_instance</document>
+        <document_key>25ecf82fdbc53010eaeb84d8689619d5</document_key>
+        <order>400</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-05 17:59:30</sys_created_on>
+        <sys_id>65ecf82fdbc53010eaeb84d8689619db</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-05 17:59:30</sys_updated_on>
+        <value/>
+        <variable display_value="">f5e56d79b3101300176b051a16a8dce4</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_step_instance</document>
+        <document_key>25ecf82fdbc53010eaeb84d8689619d5</document_key>
+        <order>600</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-05 17:59:30</sys_created_on>
+        <sys_id>e9ecf82fdbc53010eaeb84d8689619db</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-05 17:59:30</sys_updated_on>
+        <value>(function execute(inputs, outputs) {
+// ... code ...
+  var rec = new GlideRecord('scheduled_import_set');
+rec.get('name', 'Join URL and ID Scheduled Import');
+gs.executeNow(rec);
+})(inputs, outputs);
+</value>
+        <variable display_value="">71aa7f6647032200b4fad7527c9a719b</variable>
+    </sys_variable_value>
+</record_update>

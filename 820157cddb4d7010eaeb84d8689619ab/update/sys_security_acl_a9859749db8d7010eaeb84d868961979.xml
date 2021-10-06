@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_173931_zoomnow_zoom_meeting</description>
+        <name>x_173931_zoomnow_zoom_meeting</name>
+        <operation display_value="write">write</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-28 10:41:32</sys_created_on>
+        <sys_id>a9859749db8d7010eaeb84d868961979</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_173931_zoomnow_zoom_meeting</sys_name>
+        <sys_package display_value="ZoomNow" source="x_173931_zoomnow">820157cddb4d7010eaeb84d8689619ab</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ZoomNow">820157cddb4d7010eaeb84d8689619ab</sys_scope>
+        <sys_update_name>sys_security_acl_a9859749db8d7010eaeb84d868961979</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-28 10:41:32</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>

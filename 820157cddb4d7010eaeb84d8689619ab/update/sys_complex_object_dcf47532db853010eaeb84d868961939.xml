@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FD1cf475326d85301056175fb1d7fc6f39</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>820157cddb4d7010eaeb84d8689619ab</scope_name>
+        <serialized_content>{"FlowDesigner:FD1cf475326d85301056175fb1d7fc6f39":{"$COCollectionField":[{"meetingobj":{"duration":"String","duration.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"duration\",\"mandatory\":\"true\",\"order\":\"7\",\"max_length\":\"0\",\"uiUniqueId\":\"d73abedf-488e-4c1a-991b-6b3d5ff8e7fa\"}"},"join_url":"String","join_url.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"join_url\",\"mandatory\":\"true\",\"order\":\"5\",\"max_length\":\"0\",\"uiUniqueId\":\"2adf4a81-d0a7-4e5b-8722-dbc79a02e64b\"}"},"topic":"String","topic.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"topic\",\"mandatory\":\"true\",\"order\":\"6\",\"max_length\":\"0\",\"uiUniqueId\":\"8cbf764b-5b05-4cee-92fa-2cbe8fe845f6\"}"},"id":"String","id.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"id\",\"mandatory\":\"true\",\"order\":\"3\",\"max_length\":\"0\",\"uiUniqueId\":\"f1679a1b-4ce6-4acf-8c80-52dbda680f10\"}"},"uuid":"String","uuid.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"uuid\",\"mandatory\":\"true\",\"order\":\"2\",\"max_length\":\"0\",\"uiUniqueId\":\"a000efe4-1fba-47e3-bdd6-f80c29e83ff0\"}"},"host_id":"String","host_id.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"host_id\",\"mandatory\":\"true\",\"order\":\"4\",\"max_length\":\"0\",\"uiUniqueId\":\"433e359f-6b0f-4929-b19b-965d60ab1573\"}"}}}],"$COCollectionField.$type_facets":{"SimpleMapFacet":"{\"default_value\":\"\",\"label\":\"meetings\",\"mandatory\":\"true\",\"child_name\":\"meetingobj\",\"uiUniqueId\":\"4cde3923-8281-451b-986e-2d5dad43a807\",\"uiTypeLabel\":\"Array.Object\",\"co_type_name\":\"FD1cf475326d85301056175fb1d7fc6f39\",\"child_label\":\"meetingobj\",\"child_type_label\":\"Object\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"array.object\",\"child_type\":\"object\",\"order\":\"1\",\"max_length\":\"65000\",\"child_uiUniqueId\":\"cc234ee5-6596-4457-92b6-8c3e180a44e9\"}"},"$COCollectionField.$field_facets":{"SimpleMapFacet":"{\"up-shift-collection-level\":\"true\"}"}},"FlowDesigner:FD1cf475326d85301056175fb1d7fc6f39.$type_facets":{"SimpleMapFacet":"{\"default_value\":\"\",\"label\":\"meetings\",\"mandatory\":\"true\",\"child_name\":\"meetingobj\",\"uiUniqueId\":\"4cde3923-8281-451b-986e-2d5dad43a807\",\"uiTypeLabel\":\"Array.Object\",\"co_type_name\":\"FD1cf475326d85301056175fb1d7fc6f39\",\"child_label\":\"meetingobj\",\"child_type_label\":\"Object\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"array.object\",\"child_type\":\"object\",\"order\":\"1\",\"max_length\":\"65000\",\"child_uiUniqueId\":\"cc234ee5-6596-4457-92b6-8c3e180a44e9\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-03 14:08:56</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>dcf47532db853010eaeb84d868961939</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FD1cf475326d85301056175fb1d7fc6f39</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="ZoomNow" source="x_173931_zoomnow">820157cddb4d7010eaeb84d8689619ab</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ZoomNow">820157cddb4d7010eaeb84d8689619ab</sys_scope>
+        <sys_update_name>sys_complex_object_dcf47532db853010eaeb84d868961939</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-03 14:08:56</sys_updated_on>
+        <type>complex_object_collection</type>
+    </sys_complex_object>
+</record_update>

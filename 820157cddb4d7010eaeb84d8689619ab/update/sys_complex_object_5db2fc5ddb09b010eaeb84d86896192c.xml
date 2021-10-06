@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FD99b2fc5dcd09b0107e672fafb3923a2c</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>820157cddb4d7010eaeb84d8689619ab</scope_name>
+        <serialized_content>{"FlowDesigner:FD99b2fc5dcd09b0107e672fafb3923a2c":{"$COCollectionField":[{"Object":{}}],"$COCollectionField.$field_facets":{"SimpleMapFacet":"{\"up-shift-collection-level\":\"true\"}"}},"FlowDesigner:FD99b2fc5dcd09b0107e672fafb3923a2c.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"\",\"default_value\":\"\",\"child_hint\":\"\",\"child_maxsize\":\"\",\"label\":\"meetings\",\"mandatory\":\"true\",\"child_name\":\"meetingobj\",\"uiUniqueId\":\"4cde3923-8281-451b-986e-2d5dad43a807\",\"uiTypeLabel\":\"Array.Object\",\"co_type_name\":\"FD99b2fc5dcd09b0107e672fafb3923a2c\",\"child_label\":\"meetingobj\",\"child_type_label\":\"Object\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceUiUniqueId\":\"\",\"sourceType\":\"\",\"hint\":null,\"uiType\":\"array.object\",\"child_defaultValue\":\"\",\"child_type\":\"object\",\"order\":\"1\",\"max_length\":\"65000\",\"child_uiUniqueId\":\"cc234ee5-6596-4457-92b6-8c3e180a44e9\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-28 17:28:39</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5db2fc5ddb09b010eaeb84d86896192c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FD99b2fc5dcd09b0107e672fafb3923a2c</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="ZoomNow" source="x_173931_zoomnow">820157cddb4d7010eaeb84d8689619ab</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ZoomNow">820157cddb4d7010eaeb84d8689619ab</sys_scope>
+        <sys_update_name>sys_complex_object_5db2fc5ddb09b010eaeb84d86896192c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-28 17:28:39</sys_updated_on>
+        <type>complex_object_collection</type>
+    </sys_complex_object>
+</record_update>

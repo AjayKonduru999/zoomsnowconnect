@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="join_url" label="Join URL" language="en" table="x_173931_zoomnow_zoom_meeting">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>join_url</element>
+            <help/>
+            <hint/>
+            <label>Join URL</label>
+            <language>en</language>
+            <name>x_173931_zoomnow_zoom_meeting</name>
+            <plural>Join URLs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-06-28 10:41:32</sys_created_on>
+            <sys_id>21859749db8d7010eaeb84d8689619ad</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Join URL</sys_name>
+            <sys_package display_value="ZoomNow" source="x_173931_zoomnow">820157cddb4d7010eaeb84d8689619ab</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ZoomNow">820157cddb4d7010eaeb84d8689619ab</sys_scope>
+            <sys_update_name>sys_documentation_x_173931_zoomnow_zoom_meeting_join_url_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-06-28 10:41:32</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

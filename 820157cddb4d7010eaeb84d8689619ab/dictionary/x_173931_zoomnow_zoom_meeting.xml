@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Zoom Meeting" max_length="40" name="x_173931_zoomnow_zoom_meeting" sizeclass="22" type="collection">
+        <element label="Duration" max_length="40" name="duration" type="string"/>
+        <element label="Host Email" max_length="40" name="host_email" type="string"/>
+        <element label="Host ID" max_length="40" name="host_id" type="string"/>
+        <element label="ID" max_length="40" name="id" type="string"/>
+        <element label="Join URL" max_length="1024" name="join_url" type="string"/>
+        <element label="Password" max_length="100" name="password" type="string"/>
+        <element label="Start Date Time" max_length="40" name="start_date_time" type="glide_date_time"/>
+        <element label="TimeZone" max_length="32" name="timezone" reference="x_173931_zoomnow_timezone" type="reference"/>
+        <element label="Topic" max_length="100" name="topic" type="string"/>
+        <element label="uuid" max_length="100" name="uuid" type="string"/>
+        <index name="index">
+            <element name="timezone"/>
+        </index>
+    </element>
+</database>
